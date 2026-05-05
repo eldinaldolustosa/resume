@@ -8,7 +8,7 @@ Você pode fornecer ao agente algo como:
 > Atualmente, (trabalho como [sua função]) OU (sou estudante de [seu curso]), e busco vagas de [nível, ex: júnior, pleno, sênior] para [cargo desejado].  
 > Vamos revisar cada tópico do meu currículo para corrigir erros gramaticais e encontrar formas melhores de expressar o que escrevi. Quero que você foque no mercado profissional [brasileiro, internacional] e seja cuidadoso com a terminologia utilizada."
 
-Consulte também o arquivo [`Professor de Inglês Técnico para RH e Entrevistas.md`](Professor de Inglês Técnico para RH e Entrevistas.md) para um prompt detalhado e orientações específicas.
+Consulte também o arquivo [Professor de Inglês Técnico para RH e Entrevistas.md] para obter um prompt detalhado e orientações específicas de estudo de ingles para entrevistas e comportamento durente a entrevista com RH ou Recrutador Tecnico. Nao esqueca de informar o seu cargo e funcao desejada no prompt para uma melhor performance da IA que voce escolher executar o prompt.
 
 ## Seções do Modelo
 
