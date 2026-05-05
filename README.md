@@ -78,7 +78,7 @@ Alternativamente, se você tem familiaridade com o GitHub, para cada push (envio
 
 ## License / Licença
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](license.md) file for details.
 --------------------------------------------------------
 # Modelo de Currículo em Português
 
@@ -129,4 +129,4 @@ Estas dicas foram adaptadas do artigo da [Harvard](https://careerservices.fas.ha
 
 ---
 
-Para dúvidas sobre o template LaTeX, consulte os comentários no arquivo `[BR]Resume LaTeX.tex`.
+Para dúvidas sobre o template LaTeX, consulte os comentários no arquivo `[BR]ResumeLaTeX.tex`.
