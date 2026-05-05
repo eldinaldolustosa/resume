@@ -28,18 +28,19 @@ Se você não tem familiaridade com GitHub ou código, a maneira mais fácil de 
 > Muitas pessoas confundem LaTeX com uma linguagem de programação complexa, mas na verdade é apenas um arquivo de texto usado para gerar um **PDF de alta qualidade**. Você não precisa saber programar para usar!
 
 **Passo a passo:**
-1. **Copie o código**: Abra e copie todo o texto do arquivo de currículo em PORTUGUES ou INGLES: [`[BR]ResumeLaTeX.tex`]([BR]Resume-LaTeX.tex) ou [`[EN]ResumeLaTeX.tex`]([EN]Resume-LaTeX.tex).
+1. **Copie o código**: Abra e copie todo o texto do arquivo de currículo em PORTUGUES ou INGLES: [`[BR]Resume-LaTeX.tex`]([BR]Resume-LaTeX.tex) ou [`[EN]Resume-LaTeX.tex`]([EN]Resume-LaTeX.tex).
 2. **Acesse o Prism**: Acesse [prism.openai.com](https://prism.openai.com/). *Você nem precisa criar conta para editar e baixar!*
 3. **Cole e Edite**: Crie um arquivo no Prism e cole o código.
 4. **Use a IA a seu favor**: Você pode alterar o texto manualmente, ou pode enviar seu currículo atual no chat e pedir direto para a IA fazer as modificações para você, como num ChatGPT.
-5. **Baixe o PDF**: Para gerar o PDF de alta qualidade, é só baixar pelo próprio Prisma no painel lateral direito que sera compilado com a visualizacao do PDF que esta sendo editado. Procure no canto superior direito o icone para fazer o download!
+5. **Baixe o PDF**: Para gerar o PDF de alta qualidade, é só baixar pelo próprio Prism no painel lateral direito que sera compilado com a visualizacao do PDF que esta sendo editado. Procure no canto superior direito o icone para fazer o download!
 
 ## ❓ Perguntas Frequentes (FAQ)
 
 <details>
 <summary><strong>Qual versão devo usar?</strong></summary>
 
-- Use a **versão em Português** (`[[BR]ResumeLaTeX.tex`) para o mercado brasileiro.
+- Use a **versão em Português** (`[[BR]Resume-LaTeX.tex`) para o mercado brasileiro.
+- Use a **versão em Português** (`[EN]ResumeLa-TeX.tex`) para o mercado internacional.
 </details>
 
 <details>
@@ -71,7 +72,7 @@ Embora seja possível, **não é recomendado**. Um dos principais benefícios do
 
 Se você estiver usando o **Prism**, basta baixar o PDF gerado diretamente pela interface deles.
 
-Alternativamente, se você tem familiaridade com o GitHub, para cada push (envio de código) no repositório, um fluxo de trabalho (workflow) gerará automaticamente novos PDFs. Você pode baixá-los na aba "Actions" (Ações).
+Alternativamente, se você tem familiaridade com o GitHub, para cada push (envio de código) no repositório, um fluxo de trabalho (workflow) gerará automaticamente novos PDFs. Você pode baixá-los na aba "Actions" (Ações) ou Fork este repositorio.
 </details>
 
 ---
@@ -129,4 +130,4 @@ Estas dicas foram adaptadas do artigo da [Harvard](https://careerservices.fas.ha
 
 ---
 
-Para dúvidas sobre o template LaTeX, consulte os comentários no arquivo `[BR]ResumeLaTeX.tex`.
+Para dúvidas sobre o template LaTeX, consulte os comentários no arquivo `[BR]Resume-LaTeX.tex` ou `[EN]Resume-LaTeX.tex`.
