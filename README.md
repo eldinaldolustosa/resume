@@ -28,11 +28,11 @@ Se você não tem familiaridade com GitHub ou código, a maneira mais fácil de 
 > Muitas pessoas confundem LaTeX com uma linguagem de programação complexa, mas na verdade é apenas um arquivo de texto usado para gerar um **PDF de alta qualidade**. Você não precisa saber programar para usar!
 
 **Passo a passo:**
-1. **Copie o código**: Abra e copie todo o texto do arquivo de currículo em português: [`[BR]ResumeLaTeX.tex`]([BR]ResumeLaTeX.tex).
+1. **Copie o código**: Abra e copie todo o texto do arquivo de currículo em PORTUGUES ou INGLES: [`[BR]ResumeLaTeX.tex`]([BR]Resume-LaTeX.tex) ou [`[EN]ResumeLaTeX.tex`]([EN]Resume-LaTeX.tex).
 2. **Acesse o Prism**: Acesse [prism.openai.com](https://prism.openai.com/). *Você nem precisa criar conta para editar e baixar!*
 3. **Cole e Edite**: Crie um arquivo no Prism e cole o código.
 4. **Use a IA a seu favor**: Você pode alterar o texto manualmente, ou pode enviar seu currículo atual no chat e pedir direto para a IA fazer as modificações para você, como num ChatGPT.
-5. **Baixe o PDF**: Para gerar o PDF de alta qualidade, é só baixar pelo próprio Prism!
+5. **Baixe o PDF**: Para gerar o PDF de alta qualidade, é só baixar pelo próprio Prisma no painel lateral direito que sera compilado com a visualizacao do PDF que esta sendo editado. Procure no canto superior direito o icone para fazer o download!
 
 ## ❓ Perguntas Frequentes (FAQ)
 
