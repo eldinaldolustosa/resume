@@ -72,7 +72,7 @@ Embora seja possível, **não é recomendado**. Um dos principais benefícios do
 
 Se você estiver usando o **Prism**, basta baixar o PDF gerado diretamente pela interface deles.
 
-Alternativamente, se você tem familiaridade com o GitHub, para cada push (envio de código) no repositório, um fluxo de trabalho (workflow) gerará automaticamente novos PDFs. Você pode baixá-los na aba "Actions" (Ações) ou Fork este repositorio.
+Alternativamente, se você tem familiaridade com o GitHub, para cada push (envio de código) no repositório, um fluxo de trabalho (workflow) gerará automaticamente novos PDFs. 
 </details>
 
 ---
